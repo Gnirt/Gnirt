@@ -17,11 +17,11 @@ Currently a mid-tier developer. After having the first years of bliss, I feel th
 
 What I value the most at work is the social bond we create when working together towards a common goal. 
 I won't remember the feature, nor the code. But I'll remember the people, our smiles and struggles while building our project. I like creating deep connections with people I'll be happy to hear about or hang out with going forward. 
-To fulfill that purpose, I spontaneously propose getting coffee with new and older faces.
+To foster these connections, I enjoy getting coffee with both new and familiar faces.
 
 ## Feedback makes perfect
 
-- Feeling down for a few days happens, but feeling so for 2 weeks is, in my case, a warning. I'll openly talk about it with my manager to find root causes/solutions and communicate about it at an early stage. If you get the impression that I've been feeling down for a while, please notify me. I'll gladly ponder the last few days.
+- Feeling down for a few days happens, but feeling so for 2 weeks is, in my case, a warning. I'll openly talk about it with my manager to find root causes/solutions and communicate about it at an early stage. Please let me know if you notice that I've been feeling down for a while. I'll gladly ponder the last few days.
 - In case of positive feedback, I prefer private praise and feel awkward with public ones
 
 ## When in doubt, I'll ask
