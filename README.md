@@ -1,54 +1,55 @@
-# README: Gnirt's (poignant) Guide to Work
+> Last update: 2023/03/25
 
-This is a simple manifesto for my co-workers. I hope it will help us work better together.
+# Gnirt's README
 
-**Disclaimer**
-I strive to stay aligned with what I wrote below. If you feel like I am acting in a way that contradicts the following manifest, I'd be grateful if you’d let me know.
+This guide is designed to help my co-workers understand my work philosophy and foster better collaboration among our team.
 
-Practice makes perfect, but I can't practice what I’m unaware of.
+**Disclaimer:** I strive to stay true to the principles outlined in this guide. If you feel that my actions contradict what I've written, please don't hesitate to let me know. I can't improve without being aware of my shortcomings.
 
-## 2026 professional goal
+## Professional Goal for 2026:
 
-> Being called a senior ruby developer without feeling the imposter syndrome.
+> Become a proficient Ruby developer
 
-Currently a mid-tier developer. After having the first years of bliss, I feel that I’ve been stagnant in my progress. It is time to push myself by tackling scaling challenges, within a team of people who are more skilled than I am, and regularly solving development riddles on the vast internet.
+As a mid-tier developer, I've enjoyed my initial years in the field but feel that my growth has stagnated. I am ready to challenge myself by tackling complex scaling issues, collaborating with highly skilled team members, and solving development puzzles.
 
-## People first
+1. Read at least two books per year to deepen my knowledge and expertise.
+2. Actively seek out complex projects and challenges within my current role to expand my skillset.
+3. Dedicate one day per month focusing on an unknown subject
+4. Seek regular feedback from peers and mentors, and use their insights to continuously improve and adapt my learning plan.
 
-What I value the most at work is the social bond we create when working together towards a common goal. 
-I won't remember the feature, nor the code. But I'll remember the people, our smiles and struggles while building our project. I like creating deep connections with people I'll be happy to hear about or hang out with going forward. 
-To foster these connections, I enjoy getting coffee with both new and familiar faces.
+## People First:
 
-## Feedback makes perfect
+My top priority at work is the social bond we create while working together towards a shared goal. I may not remember the specific features or code, but I will remember the people and our collective efforts, smiles, and struggles. I value building meaningful relationships and enjoy grabbing coffee with new and familiar colleagues.
 
-- Feeling down for a few days happens, but feeling so for 2 weeks is, in my case, a warning. I'll openly talk about it with my manager to find root causes/solutions and communicate about it at an early stage. Please let me know if you notice that I've been feeling down for a while. I'll gladly ponder the last few days.
-- In case of positive feedback, I prefer private praise and feel awkward with public ones
+## Asking Questions:
 
-## When in doubt, I'll ask
+- I acknowledge that I don't know everything.
+- If I realize I lacked context or knowledge on a project, I will admit my mistake and re-evaluate my position.
+- If I suspect that I may have offended someone, I will privately message them to discuss the issue and apologize if necessary. I will learn from my mistakes and strive not to repeat them.
 
-> I'm not omnipotent.
+## Feedback for Growth:
 
-- I might learn too late that I was lacking context or knowledge about the scope of a project. I'll openly say I was wrong and rephrase my new position.
-- If I say something that might have offended someone and I have second thoughts about something I said, I'll DM the person to ask whether I crossed any boundary and tell them not to hesitate to let me know if I did. I'll apologize, learn and try my best not to make that mistake again.
+- For positive feedback, I prefer private recognition over public praise.
+- I regularly set aside time for self-reflection, often preferring to express my thoughts and insights through writing, as it helps me gain clarity and identify areas for growth.
 
-## Listen, speak, wait
+## Effective Communication:
 
-> 3 principles for a great conversation:
+Three principles for productive conversations:
 
-1. Listen, do not interrupt
-2. Say what you need to say
-3. Create silence for the other person to speak
+1. Listen without interrupting
+2. Express your thoughts clearly
+3. Allow space for the other person to speak
 
-I tend to be more on the introverted side, and I believe a healthy conversation should be one where we listen to each other. When paired with people more extraverted, I have a hard time finding the silence needed to jump in and present my thoughts.
+As an introvert, I find it crucial to listen and be heard in conversations. When working with extroverted individuals, I may struggle to find an opening to share my thoughts.
 
-## Quirks
+## Personal Quirks:
 
-- My phone doesn't have data. My manager’s number is set to favorite and will ring even if my phone is on silent mode. Please call me for any emergency.
-- Work & social are both needed. Please let me know if I joked at the wrong place or should stop my current task to enjoy the meeting.
-- My brain thinks best is in the morning, right after my coffee. I (usually) wake up early and go to sleep early. I take a 2-hour lunch two times a week to do my physical training, it's important to me.
-- I'm relaxed, which can cause people to perceive me as nonchalant. If you feel this way please tell me, I'm committed to providing the best of myself and I would hate to let my team down.
-- Once a task is in my ownership, expect me to follow up. If a task is assigned to me, I will note it in my system. If I need assistance, if the task is delayed or done, I'll let you know.
-- I value time, therefore I'm not verbose in my oral descriptions. I assume people ask when they need more details. But if that’s not the case for you, please tell me, I'll try my best to adapt. On the opposite when typing, I try to have the right amount of precision and simplicity, to avoid back and forth and wasted time.
+- My phone doesn't have a data plan. My manager's number is set as a favorite and will ring even when my phone is on silent. Call me in case of emergencies.
+- I appreciate both work and social interactions. If I ever joke inappropriately or need to pause my work for a meeting, please let me know.
+- My most productive time is in the morning, right after coffee. I usually wake up and go to bed early. Twice a week, I take a 2-hour lunch break for physical training, which is important to me.
+- My relaxed demeanor may come across as nonchalance. If this bothers you, please let me know, as I am committed to giving my best and supporting my team.
+- I take ownership of my tasks and will follow up as needed. If I require assistance, face delays, or complete a task, I will communicate this to you.
+- I value time and tend to be concise in verbal communication, assuming people will ask for more information if needed. If you prefer more detail, please let me know. In written communication, I aim for clarity and simplicity to minimize confusion and save time.
 
-I appreciate your attention. To send feedback or say hello, use philippetring at gmail dot com
+Thank you for your attention (The most important ressource). For feedback or just to say hello, please email me at philippetring at gmail dot com.
 
