@@ -1,4 +1,4 @@
-> Last update: 2023/03/25
+> :arrow_up: Last update: 2024/12/22
 
 # Gnirt's README
 
@@ -13,8 +13,9 @@ This guide is designed to help my co-workers understand my work philosophy and f
 As a mid-tier developer, I've enjoyed my initial years in the field but feel that my growth has stagnated. I am ready to challenge myself by tackling complex scaling issues, collaborating with highly skilled team members, and solving development puzzles.
 
 1. Read at least two books per year to deepen my knowledge and expertise.
+     - In progress `The Clean Coder`
 2. Actively seek out complex projects and challenges within my current role to expand my skillset.
-3. Dedicate one day per month focusing on an unknown subject
+3. ~Dedicate one day per month focusing on an unknown subject~
 4. Seek regular feedback from peers and mentors, and use their insights to continuously improve and adapt my learning plan.
 
 ## People First:
@@ -30,7 +31,7 @@ My top priority at work is the social bond we create while working together towa
 ## Feedback for Growth:
 
 - For positive feedback, I prefer private recognition over public praise.
-- I regularly set aside time for self-reflection, often preferring to express my thoughts and insights through writing, as it helps me gain clarity and identify areas for growth.
+- I regularly (meaning at least once a year 😅) set aside time for self-reflection, often preferring to express my thoughts and insights through writing, as it helps me gain clarity and identify areas for growth.
 
 ## Effective Communication:
 
@@ -44,12 +45,11 @@ As an introvert, I find it crucial to listen and be heard in conversations. When
 
 ## Personal Quirks:
 
-- My phone doesn't have a data plan. My manager's number is set as a favorite and will ring even when my phone is on silent. Call me in case of emergencies.
+- My phone do~esn't~ have a data plan since 2025 🎉. My manager's number is set as a favorite and will ring even when my phone is on silent. Call me in case of emergencies.
 - I appreciate both work and social interactions. If I ever joke inappropriately or need to pause my work for a meeting, please let me know.
-- My most productive time is in the morning, right after coffee. I usually wake up and go to bed early. Twice a week, I take a 2-hour lunch break for physical training, which is important to me.
+- My most productive time is in the morning, right after coffee. I usually wake up and go to bed early. Sometimes, I might take up to 2-hours lunch break for physical training, I tend to prioritize health and go for long marathon over short sprint in my life.
 - My relaxed demeanor may come across as nonchalance. If this bothers you, please let me know, as I am committed to giving my best and supporting my team.
 - I take ownership of my tasks and will follow up as needed. If I require assistance, face delays, or complete a task, I will communicate this to you.
 - I value time and tend to be concise in verbal communication, assuming people will ask for more information if needed. If you prefer more detail, please let me know. In written communication, I aim for clarity and simplicity to minimize confusion and save time.
 
 Thank you for your attention (The most important ressource). For feedback or just to say hello, please email me at philippetring at gmail dot com.
-
