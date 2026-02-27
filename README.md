@@ -1,22 +1,10 @@
-> :arrow_up: Last update: 2024/12/22
+> :arrow_up: Last update: 2026/02/27
 
 # Gnirt's README
 
 This guide is designed to help my co-workers understand my work philosophy and foster better collaboration among our team.
 
 **Disclaimer:** I strive to stay true to the principles outlined in this guide. If you feel that my actions contradict what I've written, please don't hesitate to let me know. I can't improve without being aware of my shortcomings.
-
-## Professional Goal for 2026:
-
-> Become a proficient Ruby developer
-
-As a mid-tier developer, I've enjoyed my initial years in the field but feel that my growth has stagnated. I am ready to challenge myself by tackling complex scaling issues, collaborating with highly skilled team members, and solving development puzzles.
-
-1. Read at least two books per year to deepen my knowledge and expertise.
-     - In progress `The Clean Coder`
-2. Actively seek out complex projects and challenges within my current role to expand my skillset.
-3. ~Dedicate one day per month focusing on an unknown subject~
-4. Seek regular feedback from peers and mentors, and use their insights to continuously improve and adapt my learning plan.
 
 ## People First:
 
@@ -45,7 +33,6 @@ As an introvert, I find it crucial to listen and be heard in conversations. When
 
 ## Personal Quirks:
 
-- My phone do~esn't~ have a data plan since 2025 🎉. My manager's number is set as a favorite and will ring even when my phone is on silent. Call me in case of emergencies.
 - I appreciate both work and social interactions. If I ever joke inappropriately or need to pause my work for a meeting, please let me know.
 - My most productive time is in the morning, right after coffee. I usually wake up and go to bed early. Sometimes, I might take up to 2-hours lunch break for physical training, I tend to prioritize health and go for long marathon over short sprint in my life.
 - My relaxed demeanor may come across as nonchalance. If this bothers you, please let me know, as I am committed to giving my best and supporting my team.
